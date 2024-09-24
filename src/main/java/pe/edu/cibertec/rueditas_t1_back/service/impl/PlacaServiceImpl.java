@@ -27,7 +27,7 @@ public class PlacaServiceImpl implements PlacaService {
             String linea;
             while ((linea = br.readLine()) != null) {
                 String[] datos = linea.split(";");
-                if(placaRequestDTO.placa().equals(datos[1])) {
+                if(placaRequestDTO.nroPlaca().equals(datos[1])) {
                     datosVehiculo = datos;
                     break;
                 }

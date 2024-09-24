@@ -1,5 +1,5 @@
-1;XZY-987;Ford;Explorer;7;32000;Blanco
-2;BCD-456;Chevrolet;Tracker;5;21000;Rojo
-3;QWE-321;Hyundai;Tucson;5;27000;Azul
-4;RTY-654;Volkswagen;Tiguan;5;29000;Gris
-5;ASD-123;Volkswagen;Jetta;5;24000;Blanco
+1;XZY-9871;Ford;Explorer;7;32000;Blanco
+2;BCD-4566;Chevrolet;Tracker;5;21000;Rojo
+3;QWE-3213;Hyundai;Tucson;5;27000;Azul
+4;RTY-6542;Volkswagen;Tiguan;5;29000;Gris
+5;ASD-1230;Volkswagen;Jetta;5;24000;Blanco
